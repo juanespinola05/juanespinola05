@@ -40,3 +40,5 @@ I sometimes post [video tutorials](https://www.youtube.com/channel/UCaw6pZKpqHpK
 </p>
 
 **~** [_juanse.dev_](https://juanse.dev/)
+<br />
+<sub>pigeons in power</sub>
