@@ -1,4 +1,4 @@
-<img align="left" src="https://freepngimg.com/thumb/pigeon/6-2-pigeon-png-pic.png" width="200">
+<img align="left" src="https://i.imgur.com/7gLyXmx.png" width="200">
 
 ### Hey! Juanse here
 
