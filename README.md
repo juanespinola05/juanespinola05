@@ -43,7 +43,7 @@
    
   <tr>
     <td>
-      <a href="#">
+      <a href="https://youtube.com">
         <img
           style="border-radius: 5px;"
           width="300"
@@ -56,7 +56,7 @@
    
   <tr>
     <td>
-      <a href="#">
+      <a href="https://youtube.com">
         <img
           style="border-radius: 5px;"
           width="300"
@@ -69,7 +69,7 @@
    
   <tr>
     <td>
-      <a href="#">
+      <a href="https://youtube.com">
         <img
           style="border-radius: 5px;"
           width="300"
