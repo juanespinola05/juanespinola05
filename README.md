@@ -1,8 +1,9 @@
+<img src="https://juanse.dev/assets/juanse-gif.8d54a10f.gif">
 <img align="left" src="https://i.imgur.com/7gLyXmx.png" width="200">
 
-### Hey! Juanse here
+<h3>Hey! Juanse here 🇦🇷</h3>
 
-I'm someone who is passionate about **JavaScript** and likes to **write random stuff**.
+<p>I'm someone who is passionate about <b>JavaScript</b> and education.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=juanespinola05&label=Profile%20views&color=0e75b6&style=flat" alt="juanespinola05" />
@@ -17,28 +18,87 @@ I'm someone who is passionate about **JavaScript** and likes to **write random s
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=Tailwindcss&logoColor=white" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-Vite-A551FE?style=flat-square&logo=Vite&logoColor=white" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-Express.js-89BB3C?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/-PostgreSQL-30628a?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
 
-<br>
+<p>I'm very motivated about my ideas and about web development. Sharing my knowledge and learning is what I like the most, apart from JavaScript 😄 💛</p>
 
-I'm very motivated about my ideas and about web development. Sharing my knowledge and learning is what I like the most, apart from JavaScript 😄 💛
+<!-- <u>I mostly write <b>JavaScript</b> these days. See my <u>pinned repositories</u> below.</p> -->
 
-I mostly write **JavaScript** these days. See my _pinned repositories_ below.
+<p>I sometimes post <a href="https://www.youtube.com/channel/UCaw6pZKpqHpK-I0spCw0eeQ">video tutorials</a> on Youtube and occasionally <a href="https://juanse.dev">write</a> some others. Feel free to reach me on <a href="https://www.linkedin.com/in/juanse05/">LinkedIn</a></p>
 
-I sometimes post [video tutorials](https://www.youtube.com/channel/UCaw6pZKpqHpK-I0spCw0eeQ) on Youtube and occasionally [write](https://juanse.dev) some others. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/juanse05/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanespinola05&show_icons=true&locale=en&layout=compact" alt="juanespinola05" /></p>
+<h4>Checkout my last videos</h4>
+<table>
+  <thead>
+    <tr>
+      <th>Video</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanespinola05&show_icons=true&locale=en" alt="juanespinola05" /></p>
+  <tr>
+    <td>
+      <a href="#">
+        <img
+          style="border-radius: 5px;"
+          width="300"
+          src="https://i.ytimg.com/vi/hzbqVqz3Oeo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBgofzAP&amp;rs=AOn4CLBkRRkitGAUFgJpJc4sIt4TF4rqQA"
+        />
+      </a>
+    </td>
+    <td>Practicando CSS desde cero #3: Estilos a la sección hero</td>
+  </tr>
 
+  <tr>
+    <td>
+      <a href="#">
+        <img
+          style="border-radius: 5px;"
+          width="300"
+          src="https://i.ytimg.com/vi/OgAGTRhwPXg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLAcLCwOCb5C5wpRu5PPzvS09cHXpA"
+        />
+      </a>
+    </td>
+    <td>Practicando CSS desde cero #:2 Estilos al header</td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="#">
+        <img
+          style="border-radius: 5px;"
+          width="300"
+          src="https://i.ytimg.com/vi/Cgl2UjYnqxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLAXEj37M0j5YDATJBpEFq5RzN6ITQ"
+        />
+      </a>
+    </td>
+    <td>Practicando CSS desde cero #:1 Reestructurando el HTML</td>
+  </tr>
+
+  </tbody>
+</table>
+
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanespinola05" alt="juanespinola05" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/juan.espinola05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan.espinola05" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCaw6pZKpqHpK-I0spCw0eeQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juanespinola05" height="30" width="40" /></a>
+<a href="https://instagram.com/juan.espinola05" target="_blank">
+  <img align="center" src="https://i.imgur.com/LrCbYer.png" alt="juan.espinola05" height="30" width="30" />
+</a>
+<a href="https://www.youtube.com/channel/UCaw6pZKpqHpK-I0spCw0eeQ" target="_blank">
+  <img align="center" src="https://i.imgur.com/3MEHCaH.png" alt="juanespinola05" height="30" width="30" />
+</a>
+<a href="https://linkedin.com/in/juanse05" target="_blank">
+  <img align="center" src="https://i.imgur.com/AScbPqR.png" alt="juanse05" height="30" width="30" />
+</a>
 </p>
 
-**~** [_juanse.dev_](https://juanse.dev/)
+<a href="https://juanse.dev/">
+  <img src="https://i.imgur.com/3OoHnuc.png" alt="" width="100">
+</a>
 <br />
-<sub>pigeons in power</sub>
