@@ -6,7 +6,7 @@ import puppeteer from 'puppeteer'
 
 const getVideosFromYoutube = async () => {
   const VIDEOS_URL = 'https://www.youtube.com/@juanespinola05/videos'
-  const browser = await puppeteer.launch({ headless: false })
+  const browser = await puppeteer.launch()
   const page = await browser.newPage()
   await page.goto(VIDEOS_URL, {
     waitUntil: 'networkidle2'
