@@ -1,0 +1,33 @@
+{
+  "name": "juanespinola05",
+  "version": "1.0.0",
+  "description": "![Github banner gif](https://user-images.githubusercontent.com/36719203/208714031-5c705b08-afc1-4e5f-b9a7-6d69490d3013.gif) <img align=\"left\" src=\"https://i.imgur.com/7gLyXmx.png\" width=\"200\">",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "render": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanespinola05/juanespinola05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanespinola05/juanespinola05/issues"
+  },
+  "homepage": "https://github.com/juanespinola05/juanespinola05#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "./node_modules/standard/eslintrc.json"
+    ]
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "puppeteer": "^19.4.1"
+  }
+}
