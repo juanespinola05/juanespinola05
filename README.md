@@ -1,4 +1,4 @@
-<img src="https://juanse.dev/assets/juanse-gif.8d54a10f.gif">
+![Github banner gif](https://user-images.githubusercontent.com/36719203/208714031-5c705b08-afc1-4e5f-b9a7-6d69490d3013.gif)
 <img align="left" src="https://i.imgur.com/7gLyXmx.png" width="200">
 
 <h3>Hey! Juanse here 🇦🇷</h3>
