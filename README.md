@@ -40,46 +40,46 @@
     </tr>
   </thead>
   <tbody>
-
+   
   <tr>
     <td>
       <a href="#">
         <img
           style="border-radius: 5px;"
           width="300"
-          src="https://i.ytimg.com/vi/hzbqVqz3Oeo/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIBgofzAP&amp;rs=AOn4CLBkRRkitGAUFgJpJc4sIt4TF4rqQA"
+          src="https://i.ytimg.com/vi/gUxmFHvcXgk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLB47R3gjc5PD0lN7IyfeINfRFZnwQ"
         />
       </a>
     </td>
-    <td>Practicando CSS desde cero #3: Estilos a la sección hero</td>
+    <td>Practicando CSS desde cero #4: Sección de modelos</td>
   </tr>
-
+   
   <tr>
     <td>
       <a href="#">
         <img
           style="border-radius: 5px;"
           width="300"
-          src="https://i.ytimg.com/vi/OgAGTRhwPXg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLAcLCwOCb5C5wpRu5PPzvS09cHXpA"
+          src="https://i.ytimg.com/vi/TBueCOpgvFo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBONAAxAliFNWV3zoc80lxMW-BCoQ"
         />
       </a>
     </td>
-    <td>Practicando CSS desde cero #:2 Estilos al header</td>
+    <td>AdventJS on the fly #4: Box inside a box and another...</td>
   </tr>
-
+   
   <tr>
     <td>
       <a href="#">
         <img
           style="border-radius: 5px;"
           width="300"
-          src="https://i.ytimg.com/vi/Cgl2UjYnqxk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLAXEj37M0j5YDATJBpEFq5RzN6ITQ"
+          src="https://i.ytimg.com/vi/pV0v6mCNPZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLCF57-1jS0SWtio5d2wlMJ6R4IeFQ"
         />
       </a>
     </td>
-    <td>Practicando CSS desde cero #:1 Reestructurando el HTML</td>
+    <td>AdventJS on the fly #3: How many packs of gifts can Santa carry?</td>
   </tr>
-
+   
   </tbody>
 </table>
 
