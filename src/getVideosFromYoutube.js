@@ -23,8 +23,9 @@ const getVideosFromYoutube = async () => {
     return videos.map(video => {
       const title = video.querySelector('yt-formatted-string#video-title').textContent
       const image = video.querySelector('#thumbnail yt-image img').src
+      const link = video.querySelector('#thumbnail').href
 
-      return { title, image }
+      return { title, image, link }
     })
   })
 
