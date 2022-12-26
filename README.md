@@ -43,6 +43,19 @@
    
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=DWRb05qosak">
+        <img
+          style="border-radius: 5px;"
+          width="300"
+          src="https://i.ytimg.com/vi/DWRb05qosak/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLChxRFnOKeMASP5qSMsxeFIe-f0Jw"
+        />
+      </a>
+    </td>
+    <td>AdventJS on the fly #6: Creating Xmas decorations</td>
+  </tr>
+   
+  <tr>
+    <td>
       <a href="https://www.youtube.com/watch?v=gUxmFHvcXgk">
         <img
           style="border-radius: 5px;"
@@ -65,19 +78,6 @@
       </a>
     </td>
     <td>AdventJS on the fly #4: Box inside a box and another...</td>
-  </tr>
-   
-  <tr>
-    <td>
-      <a href="https://www.youtube.com/watch?v=pV0v6mCNPZE">
-        <img
-          style="border-radius: 5px;"
-          width="300"
-          src="https://i.ytimg.com/vi/pV0v6mCNPZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLCF57-1jS0SWtio5d2wlMJ6R4IeFQ"
-        />
-      </a>
-    </td>
-    <td>AdventJS on the fly #3: How many packs of gifts can Santa carry?</td>
   </tr>
    
   </tbody>
