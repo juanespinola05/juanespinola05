@@ -73,7 +73,7 @@
         <img
           style="border-radius: 5px;"
           width="300"
-          src=""
+          src="https://i.ytimg.com/vi/TBueCOpgvFo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBONAAxAliFNWV3zoc80lxMW-BCoQ"
         />
       </a>
     </td>
