@@ -12,6 +12,10 @@ const data = {
   videos: await getVideosFromYoutube()
 }
 
+if (!data.videos.length) {
+  process.exit()
+}
+
 const renderedText = ejs.render(template.toString(), data)
 
 writeFileSync(README_PATH, renderedText)

@@ -1,37 +1,39 @@
-import puppeteer from 'puppeteer'
+import { config } from 'dotenv'
+import fetch from 'node-fetch'
 
-// ? Video: ytd-rich-item-renderer #content
-// ? titulo: yt-formatted-string#video-title
-// ? imagen: #thumbnail yt-image img
+config()
 
 const getVideosFromYoutube = async () => {
-  const VIDEOS_URL = 'https://www.youtube.com/@juanespinola05/videos'
-  const browser = await puppeteer.launch()
-  const page = await browser.newPage()
-  await page.goto(VIDEOS_URL, {
-    waitUntil: 'networkidle2'
-  })
-  await page.setViewport({
-    width: 1200,
-    height: 1200
-  })
+  const options = {
+    method: 'GET',
+    headers: {
+      'X-RapidAPI-Key': process.env.RAPID_API_KEY,
+      'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com'
+    }
+  }
 
-  const videosData = await page.evaluate(() => {
-    const videosNodes = document.querySelectorAll('ytd-rich-item-renderer #content')
-    const videos = Array.from(videosNodes).slice(0, 3)
+  const CHANNEL_ID = 'UCaw6pZKpqHpK-I0spCw0eeQ'
+  const MAX_RESULTS = 5
 
-    return videos.map(video => {
-      const title = video.querySelector('yt-formatted-string#video-title').textContent
-      const image = video.querySelector('#thumbnail yt-image img').src
-      const link = video.querySelector('#thumbnail').href
+  let data
 
-      return { title, image, link }
-    })
-  })
+  try {
+    const response = await fetch(`https://youtube-v31.p.rapidapi.com/search?channelId=${CHANNEL_ID}&part=snippet%2Cid&order=date&maxResults=${MAX_RESULTS}`, options)
+    data = await response.json()
+  } catch (error) {
+    return []
+  }
 
-  await browser.close()
+  const videos = data.items
+    .filter(entry => entry.id.kind.split('#')[1] === 'video')
+    .map(entry => ({
+      title: entry.snippet.title,
+      image: entry.snippet.thumbnails.medium.url,
+      href: 'https://youtube.com/watch?v=' + entry.id.videoId
+    }))
+    .slice(0, 3)
 
-  return videosData
+  return videos
 }
 
 export default getVideosFromYoutube
