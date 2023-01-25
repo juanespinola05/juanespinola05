@@ -29,7 +29,7 @@ const getVideosFromYoutube = async () => {
     .map(entry => ({
       title: entry.snippet.title,
       image: entry.snippet.thumbnails.medium.url,
-      href: 'https://youtube.com/watch?v=' + entry.id.videoId
+      link: 'https://youtube.com/watch?v=' + entry.id.videoId
     }))
     .slice(0, 3)
 
