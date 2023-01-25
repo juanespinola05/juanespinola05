@@ -43,11 +43,11 @@
    
   <tr>
     <td>
-      <a href="https://youtube.comhttps://www.youtube.com/watch?v=gUxmFHvcXgk">
+      <a href="">
         <img
           style="border-radius: 5px;"
           width="300"
-          src="https://i.ytimg.com/vi/gUxmFHvcXgk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLB47R3gjc5PD0lN7IyfeINfRFZnwQ"
+          src="https://i.ytimg.com/vi/DWRb05qosak/mqdefault.jpg"
         />
       </a>
     </td>
@@ -56,11 +56,11 @@
    
   <tr>
     <td>
-      <a href="https://youtube.comhttps://www.youtube.com/watch?v=TBueCOpgvFo">
+      <a href="">
         <img
           style="border-radius: 5px;"
           width="300"
-          src="https://i.ytimg.com/vi/TBueCOpgvFo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBONAAxAliFNWV3zoc80lxMW-BCoQ"
+          src="https://i.ytimg.com/vi/gUxmFHvcXgk/mqdefault.jpg"
         />
       </a>
     </td>
@@ -69,11 +69,11 @@
    
   <tr>
     <td>
-      <a href="https://youtube.comhttps://www.youtube.com/watch?v=pV0v6mCNPZE">
+      <a href="">
         <img
           style="border-radius: 5px;"
           width="300"
-          src="https://i.ytimg.com/vi/pV0v6mCNPZE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLCF57-1jS0SWtio5d2wlMJ6R4IeFQ"
+          src="https://i.ytimg.com/vi/TBueCOpgvFo/mqdefault.jpg"
         />
       </a>
     </td>
