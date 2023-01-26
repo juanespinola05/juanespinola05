@@ -94,7 +94,7 @@
 <tr>
   <td>
     <a href="https://juanse.dev/blog/dinamic-readme">
-      <img width="300" src="https://i.imgur.com/Jxf7Fn1.png" alt="" />
+      <img width="300" src="/posts/dinamic-readme-banner.webp" alt="" />
     </a>
   </td>
 </tr>
