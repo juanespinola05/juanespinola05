@@ -83,7 +83,29 @@
   </tbody>
 </table>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanespinola05" alt="juanespinola05" /></p>
+<table>
+  <thead>
+    <tr>
+      <th>My Latest Post</th>
+    </tr>
+  </thead>
+  <tbody>
+ 
+<tr>
+  <td>
+    <a href="https://juanse.dev/blog/dinamic-readme">
+      <img width="300" src="/posts/dinamic-readme-banner.webp" alt="" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="300">
+    <p>Cómo crear un README.md dinámico para tu perfil de Github con Node.js y Github Actions</p>
+  </td>
+</tr>
+ 
+  </tbody>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
