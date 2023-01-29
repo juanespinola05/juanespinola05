@@ -90,20 +90,32 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
  
-<tr>
-  <td>
-    <a href="https://juanse.dev/blog/deploy-api-render">
-      <img width="300" src="https://juanse.dev/posts/og/deploy-api-render.png" alt="" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="300">
-    <p>Cómo desplegar una API REST GRATIS en Render con Node.js y TypeScript</p>
-  </td>
-</tr>
+<td>
+  <a href="https://juanse.dev/blog/deploy-api-render">
+    <img width="300" src="https://juanse.dev/posts/og/deploy-api-render.png" alt="" />
+  </a>
+</td>
  
+<td>
+  <a href="https://juanse.dev/blog/dinamic-readme">
+    <img width="300" src="https://juanse.dev/posts/og/dinamic-readme-banner.png" alt="" />
+  </a>
+</td>
+
+  </tr>
+  <tr>
+ 
+<td width="300">
+  <p>Cómo desplegar una API REST GRATIS en Render con Node.js y TypeScript</p>
+</td>
+   
+<td width="300">
+  <p>Cómo crear un README dinámico para tu perfil de Github con Node.js y Github Actions</p>
+</td>
+   
+</tr>
   </tbody>
 </table>
 
