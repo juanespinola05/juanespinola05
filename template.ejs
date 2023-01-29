@@ -64,20 +64,22 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
 <% posts.forEach(post => { %> 
-<tr>
-  <td>
-    <a href="https://juanse.dev/blog/<%= post.id %>">
-      <img width="300" src="https://juanse.dev<%= post.ogUrl %>" alt="" />
-    </a>
-  </td>
+<td>
+  <a href="https://juanse.dev/blog/<%= post.id %>">
+    <img width="300" src="https://juanse.dev<%= post.ogUrl %>" alt="" />
+  </a>
+</td>
+<% }) %>
+  </tr>
+  <tr>
+<% posts.forEach(post => { %> 
+<td width="300">
+  <p><%= post.title %></p>
+</td>
+  <% }) %> 
 </tr>
-<tr>
-  <td width="300">
-    <p><%= post.title %></p>
-  </td>
-</tr>
-<% }) %> 
   </tbody>
 </table>
 
