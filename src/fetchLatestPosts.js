@@ -10,9 +10,8 @@ const fetchLatestPosts = async () => {
     console.log(error)
     return []
   }
-  const posts = data.posts.slice(0, 2)
 
-  return posts
+  return data
 }
 
 export default fetchLatestPosts
