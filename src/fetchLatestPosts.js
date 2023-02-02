@@ -11,7 +11,7 @@ const fetchLatestPosts = async () => {
     return []
   }
 
-  return data
+  return data.posts
 }
 
 export default fetchLatestPosts
