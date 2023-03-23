@@ -30,6 +30,7 @@
 
 <p>I sometimes post <a href="https://www.youtube.com/channel/UCaw6pZKpqHpK-I0spCw0eeQ">video tutorials</a> on Youtube and occasionally <a href="https://juanse.dev">write</a> some others. Feel free to reach me on <a href="https://www.linkedin.com/in/juanse05/">LinkedIn</a></p>
 
+
 <h4>Checkout my last videos</h4>
 <table>
   <thead>
