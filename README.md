@@ -1,5 +1,5 @@
 ![Github banner gif](https://user-images.githubusercontent.com/36719203/208714031-5c705b08-afc1-4e5f-b9a7-6d69490d3013.gif)
-<img align="left" src="https://i.imgur.com/7gLyXmx.png" width="200">
+<img align="left" src="https://i.imgur.com/aiJT8bJ.png" width="200">
 
 <h3>Hey! Juanse here 🇦🇷</h3>
 
@@ -29,7 +29,6 @@
 <!-- <u>I mostly write <b>JavaScript</b> these days. See my <u>pinned repositories</u> below.</p> -->
 
 <p>I sometimes post <a href="https://www.youtube.com/channel/UCaw6pZKpqHpK-I0spCw0eeQ">video tutorials</a> on Youtube and occasionally <a href="https://juanse.dev">write</a> some others. Feel free to reach me on <a href="https://www.linkedin.com/in/juanse05/">LinkedIn</a></p>
-
 
 <h4>Checkout my last videos</h4>
 <table>
