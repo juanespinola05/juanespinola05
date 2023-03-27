@@ -93,6 +93,12 @@
     <tr>
  
 <td>
+  <a href="https://juanse.dev/blog/generar-imagenes-con-deno">
+    <img width="300" src="https://juanse.dev/posts/og/generar-imagenes-con-deno.png" alt="" />
+  </a>
+</td>
+ 
+<td>
   <a href="https://juanse.dev/blog/linter-con-standard-en-vscode">
     <img width="300" src="https://juanse.dev/posts/og/linter-con-standard-en-vscode.png" alt="" />
   </a>
@@ -103,26 +109,20 @@
     <img width="300" src="https://juanse.dev/posts/og/deploy-api-render.png" alt="" />
   </a>
 </td>
- 
-<td>
-  <a href="https://juanse.dev/blog/dinamic-readme">
-    <img width="300" src="https://juanse.dev/posts/og/dinamic-readme-banner.png" alt="" />
-  </a>
-</td>
 
   </tr>
   <tr>
  
+<td width="300">
+  <p>Generar imágenes con Deno de la forma más eficiente con ImageScript</p>
+</td>
+   
 <td width="300">
   <p>Instalar un linter súper fácil para cualquier proyecto de JavaScript o Typescript</p>
 </td>
    
 <td width="300">
   <p>Cómo desplegar una API REST GRATIS en Render con Node.js y TypeScript</p>
-</td>
-   
-<td width="300">
-  <p>Cómo crear un README dinámico para tu perfil de Github con Node.js y Github Actions</p>
 </td>
    
 </tr>
