@@ -43,6 +43,19 @@
    
   <tr>
     <td>
+      <a href="https://youtube.com/watch?v=B0S99yxB2Ks">
+        <img
+          style="border-radius: 5px;"
+          width="300"
+          src="https://i.ytimg.com/vi/B0S99yxB2Ks/mqdefault.jpg"
+        />
+      </a>
+    </td>
+    <td>Curso Frontend #41: Prototipos</td>
+  </tr>
+   
+  <tr>
+    <td>
       <a href="https://youtube.com/watch?v=DWRb05qosak">
         <img
           style="border-radius: 5px;"
@@ -65,19 +78,6 @@
       </a>
     </td>
     <td>Practicando CSS desde cero #4: Sección de modelos</td>
-  </tr>
-   
-  <tr>
-    <td>
-      <a href="https://youtube.com/watch?v=TBueCOpgvFo">
-        <img
-          style="border-radius: 5px;"
-          width="300"
-          src="https://i.ytimg.com/vi/TBueCOpgvFo/mqdefault.jpg"
-        />
-      </a>
-    </td>
-    <td>AdventJS on the fly #4: Box inside a box and another...</td>
   </tr>
    
   </tbody>
