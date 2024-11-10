@@ -1,9 +1,6 @@
 ![Github banner gif](https://user-images.githubusercontent.com/36719203/208714031-5c705b08-afc1-4e5f-b9a7-6d69490d3013.gif)
-<img align="left" src="https://i.imgur.com/aiJT8bJ.png" width="200">
 
 <h3>Hey! Juanse here 🇦🇷</h3>
-
-<p>I'm someone who is passionate about <b>JavaScript</b> and education.
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=juanespinola05&label=Profile%20views&color=0e75b6&style=flat" alt="juanespinola05" />
@@ -23,8 +20,6 @@
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Express.js-89BB3C?style=flat-square&logo=Express&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-PostgreSQL-30628a?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
-
-<p>I'm very motivated about my ideas and about web development. Sharing my knowledge and learning is what I like the most, apart from JavaScript 😄 💛</p>
 
 <!-- <u>I mostly write <b>JavaScript</b> these days. See my <u>pinned repositories</u> below.</p> -->
 
